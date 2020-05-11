@@ -28,8 +28,8 @@ Unofficial package to emulate the bot framework connector locally.
 npm install offline-directline -g
 ```
 
-Then simply use the "directline" command with the endpoint where you want to host offline-directline and the endpoint where your bot is hosted
+Then simply use the "directline" command with the endpoint 4000 to host offline-directline and the endpoint where your bot is hosted
 
 ```sh
-directline -d 3000 -b "http://127.0.0.1:3978/api/messages"
+directline -d 4000 -b "http://127.0.0.1:3978/api/messages"
 ```
