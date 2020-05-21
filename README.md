@@ -1,4 +1,4 @@
-# ms-web-chat
+# pisys-web-bot
 
 Customize Web Chat by Making the Component Minimizable.
 
